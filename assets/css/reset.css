@@ -46,4 +46,9 @@ table {
 
 html{
     font-size: 62.5%;
+	scroll-padding-top: 9rem;
+    scroll-behavior: smooth;
 }
+
+
+
